@@ -2,8 +2,6 @@
 
 A small desk for the working day. It has a whiteboard for sketching ideas, a sticky note board for keeping track of what needs doing, and a Pomodoro timer that floats on top of both.
 
-It's a single HTML file with no install, no account and no server. Open it in a browser and start using it.
-
 ![Stickies board](%23Stickies.png)
 
 ![Whiteboard](Whiteboard.png)
@@ -54,6 +52,4 @@ Everything lives in your browser's local storage, so it stays on the computer yo
 
 To be safe, use **Board > Copy backup** now and then and keep the text somewhere. You can paste it back on any computer with **Restore**. Images take up the most space, and the Board menu shows how much you've used.
 
-## Built with
 
-Plain HTML, CSS and JavaScript. Fonts come from Google Fonts and the sounds are generated in the browser, so there are no other dependencies.
